@@ -1,2 +1,7 @@
 # Pyqt5-Calculator
-Source code for simple PyQt5 calculator
+
+Gui for a simple calculator program
+
+# Pictures
+
+![demo](assets/demo.png)
